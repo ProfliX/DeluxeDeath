@@ -1,5 +1,6 @@
 *.patch
 *.diff
+*.idea
 TAGS
 .TAGS
 !TAGS/
@@ -513,3 +514,4 @@ Session.vim
 Sessionx.vim
 .netrwhist
 [._]*.un~
+/.idea/
