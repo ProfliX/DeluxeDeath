@@ -1,0 +1,4 @@
+name: DeluxeDeath
+version: '${project.version}'
+main: dev.proflix.deluxedeath.DeluxeDeath
+api-version: '1.13'
